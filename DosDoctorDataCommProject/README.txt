@@ -1,0 +1,1 @@
+Run as administrator to gain Terminal permissoins 
